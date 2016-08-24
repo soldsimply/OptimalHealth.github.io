@@ -1,0 +1,256 @@
+#OptimalHealthLogo {
+	
+	width: 500px;
+	height: 250px;
+	display: block;
+    margin: 0 auto;
+}
+
+.header li {
+	float: center;
+	display: inline-block;
+    margin: 5px auto;
+    width: 150px;
+}
+
+.header li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+    text-decoration: none;
+	font-size: 18px;
+}
+
+.header li a:hover {
+    background-color: #111;
+}
+
+.header ul {
+	text-align: center;
+	list-style-type: none;
+    padding: 0;
+	width: 100%;
+	background-color: #ffffff;
+	margin-top: 60px;
+}
+
+.header a {
+    background-color: #dddddd;
+}
+
+.header {
+	margin-top: 50px;
+}
+
+#Homeimg {
+	display: block;
+    margin: 0 auto;
+}
+
+#homeHeader {
+	color: #ffffff;
+	font-family: "Arial", Sans-Serif;
+	font-size: 23px;
+	text-align: center;
+}
+
+.home {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	line-height: 100%
+}
+
+.welcome {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	line-height: 100%
+}
+
+#pinkText {
+	color: pink;	
+}
+
+h1 {
+	color: #ffffff;
+	font-family: "Arial", Sans-Serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	text-align: center;	
+	line-height: 120%;
+	font-family: "Arial", Sans-Serif;
+}
+
+span {
+	font-weight: bold;	
+}
+
+#healthButton {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#healthButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#teqniqueButton {
+	background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#teqniqueButton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.pictures div {
+    padding: 0;}
+
+.pictures figure {
+	display: inline-block;
+}
+
+.pictures figcaption {
+	font-family: "Arial", Sans-Serif;
+    text-align: center;
+}
+
+.services {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%	
+}
+
+.hours {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%;
+}
+
+.textBlock {
+    margin-left: auto;
+    margin-right: auto;
+    width: 13em;
+}
+
+.textBlock2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 27em;
+}
+
+.health {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%;
+}
+
+ul {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 16em;
+}
+
+li {
+	text-align: left;
+	line-height: 120%;
+	font-family: "Arial", Sans-Serif;
+	font-size: 23px;
+}
+
+.health li {
+	line-height: 200%;
+}
+
+.practitioner {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%;
+}
+
+.practitioner p {
+	text-align: left;
+	font-size: 20;
+}
+
+.faq {
+	background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%;
+}
+
+.fees {
+		background-color: #BEECFF;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 1px;
+	padding-bottom: 21px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 100%;
+}
